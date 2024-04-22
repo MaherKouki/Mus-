@@ -1,0 +1,59 @@
+<div class="game-block" data-technology="mergez">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/2.webp" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="mergez">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/2.webp" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="pizza">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/5555555555555555555.webp" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="pizza">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/5555555555555555555.webp" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="poulet">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/14.jpg" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="poulet">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/14.jpg" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="safoud">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/77777777.jpg" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="safoud">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/77777777.jpg" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="soupe">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/444444444.jpg" alt="">
+        </div>
+      </div>
+      <div class="game-block" data-technology="soupe">
+        <div class="face front"></div>
+        <div class="face back">
+          <img decoding="async" src="images/444444444.jpg" alt="">
+        </div>
